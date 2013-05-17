@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Hi How are you man
-=======
-Hai How are you man dude
->>>>>>> venky
+hai how are you man
